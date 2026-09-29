@@ -36,8 +36,8 @@ msc-thesis-gender-citation-imbalance/
 │
 ├── data/
 │   ├── raw/          # Raw bibliographic dataset (not included in Git)
-│   ├── processed/    # Preprocessed paper and citation datasets
-│   └── networks/     # Derived citation-network representations
+│   ├── processed/    # Preprocessed paper and citation datasets (not included in Git)
+│   └── networks/     # Derived citation-network representations (not included in Git)
 │
 ├── notebooks/        # Complete analysis pipeline
 │
