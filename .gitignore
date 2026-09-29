@@ -2,6 +2,9 @@ data/raw/*
 data/processed/*
 data/networks/*
 
+!data/networks/.gitkeep
+!data/processed/.gitkeep
+!data/raw/.gitkeep
 
 outputs/figures/*
 outputs/tables/*
