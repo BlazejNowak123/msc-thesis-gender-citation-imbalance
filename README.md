@@ -1,4 +1,4 @@
-# MSc Thesis — Gender Citation Imbalance in Computer Science
+# MSc Thesis - Gender Citation Imbalance in Computer Science
 
 Code and analysis for the Master's thesis:
 
@@ -21,8 +21,8 @@ The analysis compares:
 
 Results are evaluated for two citation slices:
 
-- **All → CS** — citations to Computer Science papers from the complete observed corpus,
-- **CS → CS** — citations where both the citing and cited papers are in Computer Science.
+- **All → CS** - citations to Computer Science papers from the complete observed corpus,
+- **CS → CS** - citations where both the citing and cited papers are in Computer Science.
 
 Paper-level gender categories are based on inferred first- and last-author gender:
 `MM`, `MW`, `WM`, and `WW`.
