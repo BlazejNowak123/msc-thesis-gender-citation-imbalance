@@ -1,0 +1,15 @@
+,0
+n_direct_citation_edges,18904534.0
+n_citing_papers,2733997.0
+min_internal_references,5.0
+n_citing_papers_after_filtering,1514100.0
+num_perm,128.0
+lsh_threshold,0.25
+min_shared_references,3.0
+n_candidate_edges,9079863.0
+top_k,20.0
+n_topk_edges,3934046.0
+n_topk_nodes,937161.0
+mean_shared_references,4.253
+median_shared_references,4.0
+max_shared_references,195.0

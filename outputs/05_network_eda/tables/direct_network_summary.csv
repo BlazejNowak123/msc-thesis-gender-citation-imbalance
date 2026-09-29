@@ -1,0 +1,13 @@
+,value
+n_nodes,3026412.0
+n_edges,18904534.0
+n_unique_citing_nodes,2733997.0
+n_unique_cited_nodes,1915670.0
+directed_density,2.064001550908224e-06
+share_zero_in_degree,0.36701612338306877
+share_zero_out_degree,0.09662101524841958
+mean_in_degree,6.246516997685708
+median_in_degree,1.0
+mean_out_degree,6.246516997685708
+median_out_degree,5.0
+self_edges_after_filtering,0.0

@@ -1,0 +1,10 @@
+,0
+n_all_citation_edges,18904534.0
+n_all_to_known_cs_edges,8686237.0
+n_cs_to_known_cs_edges,7023500.0
+all_to_known_cs_share_of_all_edges_pct,45.95
+cs_to_known_cs_share_of_all_to_known_cs_edges_pct,80.86
+n_unique_citing_papers_all_to_cs,1966202.0
+n_unique_citing_papers_cs_to_cs,1331175.0
+n_unique_cited_known_cs_papers_all_to_cs,708057.0
+n_unique_cited_known_cs_papers_cs_to_cs,645672.0

@@ -1,0 +1,5 @@
+,n_papers,paper_share,observed_citations,observed_share,expected_citations,expected_share,difference,difference_pct_of_expected,obs_exp_ratio,n_papers_paper_level,total_internal_citations,mean_internal_citations,median_internal_citations,p75_internal_citations,p90_internal_citations,p95_internal_citations,p99_internal_citations,uncited_share_pct
+MM,790617,0.7311,6942653,0.7993,6350769.0186,0.7311,591883.9814,9.3199,1.0932,790617,6942653,8.781,1.0,5.0,16.0,31.0,111.0,33.408
+MW,97399,0.0901,641435,0.0738,782374.464,0.0901,-140939.464,-18.0143,0.8199,97399,641435,6.586,1.0,4.0,13.0,25.0,84.0,36.685
+WM,137756,0.1274,812529,0.0935,1106549.109,0.1274,-294020.109,-26.5709,0.7343,137756,812529,5.898,1.0,4.0,12.0,22.0,73.0,37.461
+WW,55591,0.0514,289620,0.0333,446544.4084,0.0514,-156924.4084,-35.1419,0.6486,55591,289620,5.21,1.0,4.0,10.0,20.0,66.0,39.282

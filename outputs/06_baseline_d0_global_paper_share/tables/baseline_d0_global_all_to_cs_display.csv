@@ -1,0 +1,5 @@
+,n_papers,paper_share,observed_citations,observed_share,expected_citations,expected_share,difference,difference_pct_of_expected,obs_exp_ratio
+MM,790617,73.11,6942653,79.93,6350769,73.11,591884,9.32,1.093
+MW,97399,9.01,641435,7.38,782374,9.01,-140939,-18.01,0.82
+WM,137756,12.74,812529,9.35,1106549,12.74,-294020,-26.57,0.734
+WW,55591,5.14,289620,3.33,446544,5.14,-156924,-35.14,0.649

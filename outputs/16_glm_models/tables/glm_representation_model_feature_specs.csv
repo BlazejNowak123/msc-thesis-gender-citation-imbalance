@@ -1,0 +1,6 @@
+model,model_name,categorical_features,numeric_features
+M1,M1_structural,"decade, primary_subfield, venue_rank_clean",log1p_n_refs
+M2,M2_direct_citation_network,"decade, primary_subfield, venue_rank_clean","log1p_n_refs, log1p_direct_out_degree"
+M3,M3_bibliographic_coupling,"decade, primary_subfield, venue_rank_clean","log1p_n_refs, log1p_bib_degree, log1p_bib_strength, log1p_bib_mean_weight, log1p_bib_max_weight"
+M4,M4_cocitation,"decade, primary_subfield, venue_rank_clean","log1p_n_refs, log1p_cocit_degree, log1p_cocit_strength, log1p_cocit_mean_weight, log1p_cocit_max_weight"
+M5,M5_all_network_features,"decade, primary_subfield, venue_rank_clean","log1p_n_refs, log1p_direct_out_degree, log1p_bib_degree, log1p_bib_strength, log1p_bib_mean_weight, log1p_bib_max_weight, log1p_cocit_degree, log1p_cocit_strength, log1p_cocit_mean_weight, log1p_cocit_max_weight"

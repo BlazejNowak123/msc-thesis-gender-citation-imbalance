@@ -1,0 +1,153 @@
+baseline_id,baseline_label,baseline_family,citation_slice,gender_cat,oe_ratio,coverage_scope,future_informed,deviation_from_parity,abs_deviation_from_parity,pct_diff_from_expected
+D0,D0: global paper share,Direct structural,All→CS,MM,1.0932,full known-gender CS target population,False,0.09319999999999995,0.09319999999999995,9.319999999999995
+D0,D0: global paper share,Direct structural,All→CS,MW,0.8199,full known-gender CS target population,False,-0.18010000000000004,0.18010000000000004,-18.010000000000005
+D0,D0: global paper share,Direct structural,All→CS,WM,0.7343,full known-gender CS target population,False,-0.26570000000000005,0.26570000000000005,-26.570000000000004
+D0,D0: global paper share,Direct structural,All→CS,WW,0.6486,full known-gender CS target population,False,-0.35140000000000005,0.35140000000000005,-35.14000000000001
+D1,D1: decade,Direct structural,All→CS,MM,1.041388730398852,full known-gender CS target population,False,0.04138873039885205,0.04138873039885205,4.138873039885205
+D1,D1: decade,Direct structural,All→CS,MW,0.9381708623154486,full known-gender CS target population,False,-0.06182913768455145,0.06182913768455145,-6.182913768455145
+D1,D1: decade,Direct structural,All→CS,WM,0.8840774406788616,full known-gender CS target population,False,-0.11592255932113837,0.11592255932113837,-11.592255932113837
+D1,D1: decade,Direct structural,All→CS,WW,0.6949768735357973,full known-gender CS target population,False,-0.3050231264642027,0.3050231264642027,-30.502312646420272
+D2,D2: decade × subfield,Direct structural,All→CS,MM,1.0413587660653756,full known-gender CS target population,False,0.041358766065375585,0.041358766065375585,4.1358766065375585
+D2,D2: decade × subfield,Direct structural,All→CS,MW,0.9354473747308218,full known-gender CS target population,False,-0.06455262526917815,0.06455262526917815,-6.455262526917815
+D2,D2: decade × subfield,Direct structural,All→CS,WM,0.8765108357892755,full known-gender CS target population,False,-0.12348916421072453,0.12348916421072453,-12.348916421072452
+D2,D2: decade × subfield,Direct structural,All→CS,WW,0.7122675068648976,full known-gender CS target population,False,-0.2877324931351024,0.2877324931351024,-28.77324931351024
+D3,D3: decade × venue rank,Direct structural,All→CS,MM,1.0309392142187004,full known-gender CS target population,False,0.030939214218700384,0.030939214218700384,3.0939214218700384
+D3,D3: decade × venue rank,Direct structural,All→CS,MW,0.9487460213417748,full known-gender CS target population,False,-0.05125397865822523,0.05125397865822523,-5.1253978658225225
+D3,D3: decade × venue rank,Direct structural,All→CS,WM,0.9071446364652082,full known-gender CS target population,False,-0.09285536353479185,0.09285536353479185,-9.285536353479184
+D3,D3: decade × venue rank,Direct structural,All→CS,WW,0.7618546322312869,full known-gender CS target population,False,-0.2381453677687131,0.2381453677687131,-23.814536776871307
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,All→CS,MM,1.0371002727426517,taxonomy-weighted citation edges,False,0.03710027274265171,0.03710027274265171,3.7100272742651708
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,All→CS,MW,0.9577289329289214,taxonomy-weighted citation edges,False,-0.04227106707107864,0.04227106707107864,-4.227106707107864
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,All→CS,WM,0.8931894987977665,taxonomy-weighted citation edges,False,-0.10681050120223345,0.10681050120223345,-10.681050120223345
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,All→CS,WW,0.7067121275372918,taxonomy-weighted citation edges,False,-0.29328787246270815,0.29328787246270815,-29.328787246270814
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,All→CS,MM,1.0499678081762784,network-covered papers,False,0.04996780817627844,0.04996780817627844,4.996780817627844
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,All→CS,MW,0.8806053150256846,network-covered papers,False,-0.11939468497431538,0.11939468497431538,-11.939468497431537
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,All→CS,WM,0.8272566036667277,network-covered papers,False,-0.1727433963332723,0.1727433963332723,-17.27433963332723
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,All→CS,WW,0.7987713401583209,network-covered papers,False,-0.20122865984167915,0.20122865984167915,-20.122865984167916
+N2,N2: co-citation neighborhood,Network neighborhood,All→CS,MM,1.0115194055764225,network-covered papers,True,0.011519405576422503,0.011519405576422503,1.1519405576422503
+N2,N2: co-citation neighborhood,Network neighborhood,All→CS,MW,0.9846552793910254,network-covered papers,True,-0.015344720608974627,0.015344720608974627,-1.5344720608974627
+N2,N2: co-citation neighborhood,Network neighborhood,All→CS,WM,0.9188149249641362,network-covered papers,True,-0.08118507503586381,0.08118507503586381,-8.11850750358638
+N2,N2: co-citation neighborhood,Network neighborhood,All→CS,WW,0.9673532357029426,network-covered papers,True,-0.032646764297057373,0.032646764297057373,-3.2646764297057373
+M1,M1: structural GLM,GLM,All→CS,MM,1.0658349363270518,full known-gender CS target population,False,0.06583493632705184,0.06583493632705184,6.583493632705184
+M1,M1: structural GLM,GLM,All→CS,MW,0.8622934504534092,full known-gender CS target population,False,-0.13770654954659078,0.13770654954659078,-13.77065495465908
+M1,M1: structural GLM,GLM,All→CS,WM,0.7870511461913113,full known-gender CS target population,False,-0.21294885380868867,0.21294885380868867,-21.294885380868866
+M1,M1: structural GLM,GLM,All→CS,WW,0.7310341035874635,full known-gender CS target population,False,-0.26896589641253654,0.26896589641253654,-26.896589641253655
+M2,M2: direct-citation GLM,GLM,All→CS,MM,1.0660746860337225,full known-gender CS target population,False,0.06607468603372246,0.06607468603372246,6.607468603372246
+M2,M2: direct-citation GLM,GLM,All→CS,MW,0.8613390009807618,full known-gender CS target population,False,-0.13866099901923823,0.13866099901923823,-13.866099901923823
+M2,M2: direct-citation GLM,GLM,All→CS,WM,0.7863235145561056,full known-gender CS target population,False,-0.2136764854438944,0.2136764854438944,-21.36764854438944
+M2,M2: direct-citation GLM,GLM,All→CS,WW,0.7316152615974955,full known-gender CS target population,False,-0.26838473840250454,0.26838473840250454,-26.838473840250455
+M3,M3: bibliographic-coupling GLM,GLM,All→CS,MM,1.0640388164063703,full known-gender CS target population,False,0.06403881640637032,0.06403881640637032,6.4038816406370325
+M3,M3: bibliographic-coupling GLM,GLM,All→CS,MW,0.8634766751849516,full known-gender CS target population,False,-0.13652332481504836,0.13652332481504836,-13.652332481504835
+M3,M3: bibliographic-coupling GLM,GLM,All→CS,WM,0.7898535329374464,full known-gender CS target population,False,-0.21014646706255358,0.21014646706255358,-21.01464670625536
+M3,M3: bibliographic-coupling GLM,GLM,All→CS,WW,0.7428721280420932,full known-gender CS target population,False,-0.25712787195790676,0.25712787195790676,-25.712787195790675
+M4,M4: co-citation GLM,GLM,All→CS,MM,1.029771182806217,full known-gender CS target population,True,0.029771182806217045,0.029771182806217045,2.9771182806217045
+M4,M4: co-citation GLM,GLM,All→CS,MW,0.907210180497525,full known-gender CS target population,True,-0.092789819502475,0.092789819502475,-9.2789819502475
+M4,M4: co-citation GLM,GLM,All→CS,WM,0.899020123789288,full known-gender CS target population,True,-0.10097987621071203,0.10097987621071203,-10.097987621071203
+M4,M4: co-citation GLM,GLM,All→CS,WW,0.8685189666742448,full known-gender CS target population,True,-0.13148103332575523,0.13148103332575523,-13.148103332575523
+M5,M5: combined-network GLM,GLM,All→CS,MM,1.0298760088412031,full known-gender CS target population,True,0.029876008841203117,0.029876008841203117,2.9876008841203117
+M5,M5: combined-network GLM,GLM,All→CS,MW,0.9059542774324753,full known-gender CS target population,True,-0.09404572256752475,0.09404572256752475,-9.404572256752475
+M5,M5: combined-network GLM,GLM,All→CS,WM,0.8988642290936472,full known-gender CS target population,True,-0.10113577090635284,0.10113577090635284,-10.113577090635284
+M5,M5: combined-network GLM,GLM,All→CS,WW,0.8696943549120735,full known-gender CS target population,True,-0.13030564508792652,0.13030564508792652,-13.030564508792652
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,All→CS,MM,1.073843616970165,all eligible known-gender citation edges,False,0.07384361697016506,0.07384361697016506,7.384361697016506
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,All→CS,MW,0.8503425865731583,all eligible known-gender citation edges,False,-0.1496574134268417,0.1496574134268417,-14.965741342684169
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,All→CS,WM,0.7802032416837464,all eligible known-gender citation edges,False,-0.21979675831625356,0.21979675831625356,-21.979675831625357
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,All→CS,WW,0.6810700828934056,all eligible known-gender citation edges,False,-0.31892991710659435,0.31892991710659435,-31.892991710659434
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,All→CS,MM,1.0311484958387074,all eligible known-gender citation edges,False,0.03114849583870738,0.03114849583870738,3.114849583870738
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,All→CS,MW,0.8968239838034603,all eligible known-gender citation edges,False,-0.10317601619653971,0.10317601619653971,-10.31760161965397
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,All→CS,WM,0.8916249189901126,all eligible known-gender citation edges,False,-0.10837508100988735,0.10837508100988735,-10.837508100988735
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,All→CS,WW,0.8862706913443279,all eligible known-gender citation edges,False,-0.1137293086556721,0.1137293086556721,-11.37293086556721
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,All→CS,MM,1.0212618279855294,all eligible known-gender citation edges,False,0.021261827985529447,0.021261827985529447,2.1261827985529447
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,All→CS,MW,1.0018203848067857,all eligible known-gender citation edges,False,0.001820384806785702,0.001820384806785702,0.1820384806785702
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,All→CS,WM,0.9657388517333396,all eligible known-gender citation edges,False,-0.03426114826666038,0.03426114826666038,-3.426114826666038
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,All→CS,WW,0.7124722218323664,all eligible known-gender citation edges,False,-0.28752777816763364,0.28752777816763364,-28.752777816763363
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,All→CS,MM,0.9664171719559008,all eligible known-gender citation edges,False,-0.03358282804409918,0.03358282804409918,-3.3582828044099178
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,All→CS,MW,1.1677443356573332,all eligible known-gender citation edges,False,0.16774433565733315,0.16774433565733315,16.774433565733315
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,All→CS,WM,1.2456446253252529,all eligible known-gender citation edges,False,0.24564462532525289,0.24564462532525289,24.56446253252529
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,All→CS,WW,0.9630309805490832,all eligible known-gender citation edges,False,-0.036969019450916796,0.036969019450916796,-3.6969019450916796
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,All→CS,MM,1.0312516905634637,replaceable citation edges only,False,0.03125169056346366,0.03125169056346366,3.1251690563463663
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,All→CS,MW,0.9267205702832672,replaceable citation edges only,False,-0.07327942971673285,0.07327942971673285,-7.327942971673284
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,All→CS,WM,0.8872745575968445,replaceable citation edges only,False,-0.11272544240315552,0.11272544240315552,-11.272544240315552
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,All→CS,WW,0.8322591414078503,replaceable citation edges only,False,-0.1677408585921497,0.1677408585921497,-16.77408585921497
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,All→CS,MM,1.0061666219870866,replaceable citation edges only,True,0.006166621987086618,0.006166621987086618,0.6166621987086618
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,All→CS,MW,0.9999784446286358,replaceable citation edges only,True,-2.1555371364168074e-05,2.1555371364168074e-05,-0.0021555371364168074
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,All→CS,WM,0.9492922582527352,replaceable citation edges only,True,-0.05070774174726478,0.05070774174726478,-5.070774174726478
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,All→CS,WW,0.9820948469813068,replaceable citation edges only,True,-0.01790515301869322,0.01790515301869322,-1.790515301869322
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,All→CS,MM,1.014375303014618,same replaceable BC edge set,False,0.01437530301461809,0.01437530301461809,1.437530301461809
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,All→CS,MW,0.94655946729767,same replaceable BC edge set,False,-0.05344053270232996,0.05344053270232996,-5.344053270232996
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,All→CS,WM,0.9568209267441607,same replaceable BC edge set,False,-0.04317907325583925,0.04317907325583925,-4.317907325583925
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,All→CS,WW,0.9172181493150776,same replaceable BC edge set,False,-0.08278185068492239,0.08278185068492239,-8.278185068492238
+D0,D0: global paper share,Direct structural,CS→CS,MM,1.0909,full known-gender CS target population,False,0.09089999999999998,0.09089999999999998,9.089999999999998
+D0,D0: global paper share,Direct structural,CS→CS,MW,0.8363,full known-gender CS target population,False,-0.16369999999999996,0.16369999999999996,-16.369999999999997
+D0,D0: global paper share,Direct structural,CS→CS,WM,0.7401,full known-gender CS target population,False,-0.2599,0.2599,-25.990000000000002
+D0,D0: global paper share,Direct structural,CS→CS,WW,0.638,full known-gender CS target population,False,-0.362,0.362,-36.199999999999996
+D1,D1: decade,Direct structural,CS→CS,MM,1.0386836590340145,full known-gender CS target population,False,0.038683659034014495,0.038683659034014495,3.8683659034014495
+D1,D1: decade,Direct structural,CS→CS,MW,0.958330097849173,full known-gender CS target population,False,-0.041669902150827,0.041669902150827,-4.1669902150827
+D1,D1: decade,Direct structural,CS→CS,WM,0.893053902495087,full known-gender CS target population,False,-0.10694609750491302,0.10694609750491302,-10.694609750491303
+D1,D1: decade,Direct structural,CS→CS,WW,0.6841909812965704,full known-gender CS target population,False,-0.3158090187034296,0.3158090187034296,-31.58090187034296
+D2,D2: decade × subfield,Direct structural,CS→CS,MM,1.03860630327905,full known-gender CS target population,False,0.038606303279050014,0.038606303279050014,3.8606303279050014
+D2,D2: decade × subfield,Direct structural,CS→CS,MW,0.954989327253284,full known-gender CS target population,False,-0.045010672746715996,0.045010672746715996,-4.5010672746716
+D2,D2: decade × subfield,Direct structural,CS→CS,WM,0.8855495885749746,full known-gender CS target population,False,-0.11445041142502543,0.11445041142502543,-11.445041142502543
+D2,D2: decade × subfield,Direct structural,CS→CS,WW,0.7021605328251525,full known-gender CS target population,False,-0.29783946717484755,0.29783946717484755,-29.783946717484756
+D3,D3: decade × venue rank,Direct structural,CS→CS,MM,1.0283217698223763,full known-gender CS target population,False,0.02832176982237633,0.02832176982237633,2.832176982237633
+D3,D3: decade × venue rank,Direct structural,CS→CS,MW,0.9678472068388732,full known-gender CS target population,False,-0.03215279316112685,0.03215279316112685,-3.2152793161126847
+D3,D3: decade × venue rank,Direct structural,CS→CS,WM,0.9163769994238804,full known-gender CS target population,False,-0.0836230005761196,0.0836230005761196,-8.36230005761196
+D3,D3: decade × venue rank,Direct structural,CS→CS,WW,0.7512286490528918,full known-gender CS target population,False,-0.24877135094710823,0.24877135094710823,-24.877135094710823
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,CS→CS,MM,1.0352855202189488,taxonomy-weighted citation edges,False,0.03528552021894882,0.03528552021894882,3.528552021894882
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,CS→CS,MW,0.964821435770763,taxonomy-weighted citation edges,False,-0.03517856422923704,0.03517856422923704,-3.517856422923704
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,CS→CS,WM,0.8989814480480116,taxonomy-weighted citation edges,False,-0.10101855195198839,0.10101855195198839,-10.101855195198839
+R1_taxonomy_weighted,R1: taxonomy-weighted relevance,Topical relevance,CS→CS,WW,0.713076462543355,taxonomy-weighted citation edges,False,-0.286923537456645,0.286923537456645,-28.6923537456645
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,CS→CS,MM,1.0471216553644704,network-covered papers,False,0.04712165536447044,0.04712165536447044,4.712165536447044
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,CS→CS,MW,0.8916727867115088,network-covered papers,False,-0.10832721328849115,0.10832721328849115,-10.832721328849114
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,CS→CS,WM,0.8404316470412281,network-covered papers,False,-0.15956835295877192,0.15956835295877192,-15.956835295877191
+N1,N1: bibliographic-coupling neighborhood,Network neighborhood,CS→CS,WW,0.7956825498595361,network-covered papers,False,-0.20431745014046387,0.20431745014046387,-20.43174501404639
+N2,N2: co-citation neighborhood,Network neighborhood,CS→CS,MM,1.0095496669754662,network-covered papers,True,0.00954966697546622,0.00954966697546622,0.954966697546622
+N2,N2: co-citation neighborhood,Network neighborhood,CS→CS,MW,0.992165395359991,network-covered papers,True,-0.007834604640008958,0.007834604640008958,-0.7834604640008958
+N2,N2: co-citation neighborhood,Network neighborhood,CS→CS,WM,0.9314726106490409,network-covered papers,True,-0.06852738935095914,0.06852738935095914,-6.852738935095914
+N2,N2: co-citation neighborhood,Network neighborhood,CS→CS,WW,0.9691441222652908,network-covered papers,True,-0.030855877734709214,0.030855877734709214,-3.0855877734709214
+M1,M1: structural GLM,GLM,CS→CS,MM,1.066425281903717,full known-gender CS target population,False,0.06642528190371699,0.06642528190371699,6.642528190371699
+M1,M1: structural GLM,GLM,CS→CS,MW,0.8733989762434019,full known-gender CS target population,False,-0.1266010237565981,0.1266010237565981,-12.66010237565981
+M1,M1: structural GLM,GLM,CS→CS,WM,0.7859408414039645,full known-gender CS target population,False,-0.21405915859603553,0.21405915859603553,-21.405915859603553
+M1,M1: structural GLM,GLM,CS→CS,WW,0.7148439571019256,full known-gender CS target population,False,-0.2851560428980744,0.2851560428980744,-28.515604289807438
+M2,M2: direct-citation GLM,GLM,CS→CS,MM,1.066924114174153,full known-gender CS target population,False,0.066924114174153,0.066924114174153,6.6924114174153
+M2,M2: direct-citation GLM,GLM,CS→CS,MW,0.8714467725586039,full known-gender CS target population,False,-0.12855322744139608,0.12855322744139608,-12.855322744139608
+M2,M2: direct-citation GLM,GLM,CS→CS,WM,0.7843282192074837,full known-gender CS target population,False,-0.21567178079251625,0.21567178079251625,-21.567178079251626
+M2,M2: direct-citation GLM,GLM,CS→CS,WW,0.7162514379176648,full known-gender CS target population,False,-0.28374856208233523,0.28374856208233523,-28.374856208233524
+M3,M3: bibliographic-coupling GLM,GLM,CS→CS,MM,1.0643043406760555,full known-gender CS target population,False,0.0643043406760555,0.0643043406760555,6.4304340676055505
+M3,M3: bibliographic-coupling GLM,GLM,CS→CS,MW,0.8747834003187389,full known-gender CS target population,False,-0.1252165996812611,0.1252165996812611,-12.521659968126109
+M3,M3: bibliographic-coupling GLM,GLM,CS→CS,WM,0.7891431110498462,full known-gender CS target population,False,-0.21085688895015375,0.21085688895015375,-21.085688895015377
+M3,M3: bibliographic-coupling GLM,GLM,CS→CS,WW,0.7286148222118803,full known-gender CS target population,False,-0.27138517778811966,0.27138517778811966,-27.138517778811966
+M4,M4: co-citation GLM,GLM,CS→CS,MM,1.0288787762345508,full known-gender CS target population,True,0.028878776234550818,0.028878776234550818,2.887877623455082
+M4,M4: co-citation GLM,GLM,CS→CS,MW,0.9199369213661928,full known-gender CS target population,True,-0.08006307863380724,0.08006307863380724,-8.006307863380723
+M4,M4: co-citation GLM,GLM,CS→CS,WM,0.9018611368659852,full known-gender CS target population,True,-0.09813886313401476,0.09813886313401476,-9.813886313401476
+M4,M4: co-citation GLM,GLM,CS→CS,WW,0.8547825725608224,full known-gender CS target population,True,-0.14521742743917765,0.14521742743917765,-14.521742743917764
+M5,M5: combined-network GLM,GLM,CS→CS,MM,1.0292444380965189,full known-gender CS target population,True,0.029244438096518888,0.029244438096518888,2.9244438096518888
+M5,M5: combined-network GLM,GLM,CS→CS,MW,0.917058894116011,full known-gender CS target population,True,-0.08294110588398895,0.08294110588398895,-8.294110588398896
+M5,M5: combined-network GLM,GLM,CS→CS,WM,0.9008179245250236,full known-gender CS target population,True,-0.09918207547497637,0.09918207547497637,-9.918207547497637
+M5,M5: combined-network GLM,GLM,CS→CS,WW,0.8570746799202533,full known-gender CS target population,True,-0.14292532007974668,0.14292532007974668,-14.292532007974668
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,CS→CS,MM,1.0685728922669655,all eligible known-gender citation edges,False,0.0685728922669655,0.0685728922669655,6.85728922669655
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,CS→CS,MW,0.8741231714775914,all eligible known-gender citation edges,False,-0.12587682852240856,0.12587682852240856,-12.587682852240857
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,CS→CS,WM,0.7948388827404398,all eligible known-gender citation edges,False,-0.2051611172595602,0.2051611172595602,-20.516111725956023
+RD_0_10_uniform,"Random draw: 0–10 years, uniform",Randomized reference drawing,CS→CS,WW,0.6721055277046103,all eligible known-gender citation edges,False,-0.3278944722953897,0.3278944722953897,-32.78944722953897
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,CS→CS,MM,1.0269912397656076,all eligible known-gender citation edges,False,0.026991239765607578,0.026991239765607578,2.6991239765607578
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,CS→CS,MW,0.9206099850553586,all eligible known-gender citation edges,False,-0.07939001494464137,0.07939001494464137,-7.939001494464137
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,CS→CS,WM,0.9070620431174428,all eligible known-gender citation edges,False,-0.09293795688255724,0.09293795688255724,-9.293795688255724
+RD_0_10_prior,"Random draw: 0–10 years, prior-weighted",Randomized reference drawing,CS→CS,WW,0.8721827119051047,all eligible known-gender citation edges,False,-0.12781728809489534,0.12781728809489534,-12.781728809489534
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,CS→CS,MM,1.0169163624524524,all eligible known-gender citation edges,False,0.016916362452452427,0.016916362452452427,1.6916362452452427
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,CS→CS,MW,1.030157198544083,all eligible known-gender citation edges,False,0.03015719854408294,0.03015719854408294,3.015719854408294
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,CS→CS,WM,0.9837894378495484,all eligible known-gender citation edges,False,-0.01621056215045158,0.01621056215045158,-1.621056215045158
+RD_all_prior_uniform,"Random draw: all prior, uniform",Randomized reference drawing,CS→CS,WW,0.7020520308774778,all eligible known-gender citation edges,False,-0.2979479691225222,0.2979479691225222,-29.79479691225222
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,CS→CS,MM,0.9629597658340684,all eligible known-gender citation edges,False,-0.03704023416593161,0.03704023416593161,-3.7040234165931607
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,CS→CS,MW,1.2005960490210603,all eligible known-gender citation edges,False,0.20059604902106032,0.20059604902106032,20.05960490210603
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,CS→CS,WM,1.268156782211712,all eligible known-gender citation edges,False,0.2681567822117119,0.2681567822117119,26.81567822117119
+RD_all_prior_prior,"Random draw: all prior, prior-weighted",Randomized reference drawing,CS→CS,WW,0.9468288276484256,all eligible known-gender citation edges,False,-0.053171172351574425,0.053171172351574425,-5.3171172351574425
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,CS→CS,MM,1.0292327743098226,replaceable citation edges only,False,0.02923277430982263,0.02923277430982263,2.923277430982263
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,CS→CS,MW,0.9335486771656192,replaceable citation edges only,False,-0.06645132283438082,0.06645132283438082,-6.645132283438082
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,CS→CS,WM,0.8986980276473224,replaceable citation edges only,False,-0.10130197235267757,0.10130197235267757,-10.130197235267758
+NR_BC,Network randomization: bibliographic coupling,Network-conditioned randomization,CS→CS,WW,0.8301147809526894,replaceable citation edges only,False,-0.16988521904731058,0.16988521904731058,-16.98852190473106
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,CS→CS,MM,1.0050937160041076,replaceable citation edges only,True,0.0050937160041075735,0.0050937160041075735,0.5093716004107574
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,CS→CS,MW,1.005972986631888,replaceable citation edges only,True,0.005972986631888055,0.005972986631888055,0.5972986631888055
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,CS→CS,WM,0.9553554921927234,replaceable citation edges only,True,-0.04464450780727658,0.04464450780727658,-4.464450780727658
+NR_CO,Network randomization: co-citation,Network-conditioned randomization,CS→CS,WW,0.981093517582587,replaceable citation edges only,True,-0.018906482417412995,0.018906482417412995,-1.8906482417412995
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,CS→CS,MM,1.0133724480732662,same replaceable BC edge set,False,0.013372448073266208,0.013372448073266208,1.3372448073266208
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,CS→CS,MW,0.9481914199630064,same replaceable BC edge set,False,-0.05180858003699362,0.05180858003699362,-5.180858003699362
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,CS→CS,WM,0.9660845721542916,same replaceable BC edge set,False,-0.033915427845708446,0.033915427845708446,-3.3915427845708446
+NR_BC_prior,BC randomization × prior citation,Network-conditioned randomization,CS→CS,WW,0.9125911539434274,same replaceable BC edge set,False,-0.08740884605657262,0.08740884605657262,-8.740884605657262

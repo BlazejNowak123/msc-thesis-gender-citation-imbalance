@@ -1,0 +1,5 @@
+first_last_cat,n_papers,total_internal_citations,mean_internal_citations,median_internal_citations,p75_internal_citations,p90_internal_citations,p95_internal_citations,p99_internal_citations,uncited_share_pct
+MM,790617,6942653,8.781,1.0,5.0,16.0,31.0,111.0,33.408
+MW,97399,641435,6.586,1.0,4.0,13.0,25.0,84.0,36.685
+WM,137756,812529,5.898,1.0,4.0,12.0,22.0,73.0,37.461
+WW,55591,289620,5.21,1.0,4.0,10.0,20.0,66.0,39.282

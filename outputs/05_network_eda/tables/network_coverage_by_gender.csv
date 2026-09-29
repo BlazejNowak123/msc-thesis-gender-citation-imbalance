@@ -1,0 +1,9 @@
+representation,gender_cat,n_known_gender_cs_papers,n_covered,coverage_share
+Bibliographic coupling,MM,790617,285905,0.3616226314384841
+Bibliographic coupling,MW,97399,36119,0.37083542952186366
+Bibliographic coupling,WM,137756,51791,0.3759618455820436
+Bibliographic coupling,WW,55591,16634,0.2992210969401522
+Co-citation,MM,790617,66617,0.08425950871281543
+Co-citation,MW,97399,6727,0.06906641751968706
+Co-citation,WM,137756,8435,0.06123145271349342
+Co-citation,WW,55591,2939,0.05286827004371211

@@ -1,0 +1,7 @@
+Statistic,Value
+Final analytical papers,3026412
+Papers with at least 5 citers,711808
+Papers with at least one directed retained neighbor,188119
+Papers with at least one undirected retained neighbor,188119
+Directed top-K neighborhood rows,464130
+Undirected retained edges,232065

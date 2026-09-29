@@ -1,0 +1,12 @@
+Statistic,Value
+Nodes,3026412.0
+Directed edges,18904534.0
+Nodes with at least one incoming edge,1915670.0
+Nodes with at least one outgoing edge,2733997.0
+Nodes with zero total degree,0.0
+Mean in-degree,6.246516997685708
+Median in-degree,1.0
+Mean out-degree,6.246516997685708
+Median out-degree,5.0
+Maximum in-degree,48576.0
+Maximum out-degree,1090.0

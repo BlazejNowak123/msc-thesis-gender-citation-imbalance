@@ -1,0 +1,9 @@
+citation_slice,gender_cat,n_specifications,n_below_1,n_above_1,n_within_1pct_of_parity,min_oe,min_baseline,median_oe,max_oe,max_baseline,n_baseline_families,families_uniformly_below,families_uniformly_above,families_crossing_parity,mean_abs_slice_difference,median_abs_slice_difference,max_abs_slice_difference
+All→CS,MM,19,1,18,1,0.9664171719559008,"Random draw: all prior, prior-weighted",1.0312516905634637,1.0932,D0: global paper share,6,0,5,1,0.0021873909155929695,0.0020189162536410343,0.0052707247031995585
+CS→CS,MM,19,1,18,2,0.9629597658340684,"Random draw: all prior, prior-weighted",1.0292444380965189,1.0909,D0: global paper share,6,0,5,1,0.0021873909155929695,0.0020189162536410343,0.0052707247031995585
+All→CS,MW,19,17,2,2,0.8199,D0: global paper share,0.9267205702832672,1.1677443356573332,"Random draw: all prior, prior-weighted",6,5,0,1,0.014759660995370457,0.011306725133787277,0.032851713363727164
+CS→CS,MW,19,16,3,2,0.8363,D0: global paper share,0.9335486771656192,1.2005960490210603,"Random draw: all prior, prior-weighted",6,4,0,2,0.014759660995370457,0.011306725133787277,0.032851713363727164
+All→CS,WM,19,18,1,0,0.7343,D0: global paper share,0.8916249189901126,1.2456446253252529,"Random draw: all prior, prior-weighted",6,5,0,1,0.00898257073627251,0.0090387527856991,0.022512156886459023
+CS→CS,WM,19,18,1,0,0.7401,D0: global paper share,0.8989814480480116,1.268156782211712,"Random draw: all prior, prior-weighted",6,5,0,1,0.00898257073627251,0.0090387527856991,0.022512156886459023
+All→CS,WW,19,19,0,0,0.6486,D0: global paper share,0.7618546322312869,0.9820948469813068,Network randomization: co-citation,6,6,0,0,0.009630408954446463,0.010599999999999943,0.01620215290065763
+CS→CS,WW,19,19,0,0,0.638,D0: global paper share,0.7512286490528918,0.981093517582587,Network randomization: co-citation,6,6,0,0,0.009630408954446463,0.010599999999999943,0.01620215290065763
